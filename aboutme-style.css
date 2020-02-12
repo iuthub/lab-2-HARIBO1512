@@ -1,9 +1,26 @@
 body
 {
-background-color:#851d41; 
+background-color:#e1f4f3; 
 }
 .b{color: red;}
 .span{color: red;}
 .span1{color:#142850;}
 .li{font-family: arial black;}
 .li1{font-family: Arial}
+h1{
+	font-size: 100px;
+	text-align: center;
+
+}
+h2{
+	color: #0c7b93;
+}
+h3{
+	color: #0c7b93;
+}
+h4{
+	color: #0c7b93;
+}
+h5{
+	color: #0c7b93;
+}
